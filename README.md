@@ -1,4 +1,4 @@
 WEBSITE DSC
 ==A
 
-masukkan awal
+masukkan awal master master
